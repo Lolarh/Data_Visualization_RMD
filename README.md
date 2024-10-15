@@ -6,7 +6,6 @@ This project focuses on visualizing expression data from **The Cancer Genome Atl
 ## How to Access the Project
 
 The detailed R code and visualizations can be accessed in the R Markdown file in the repository. Additionally, the rendered HTML version of the project can be viewed [here](https://lolarh.github.io/Data_Visualization_RMD/DA_dataViz.html)
-).
 
 ---
 
